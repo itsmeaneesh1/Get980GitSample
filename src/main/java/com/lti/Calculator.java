@@ -6,4 +6,8 @@ public class Calculator
 		{
 			return x+y;
 		}
+		public void dummyCode1()
+		{
+			System.out.println("DunnmyCode");
+		}
 }
